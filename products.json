@@ -1,0 +1,70 @@
+[
+    {
+        "id": "1",
+        "name": "Logitech G Pro Mechanical Gaming Keyboard",
+        "img": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2021/11/Product/logitech-g-pro-mechanical-gaming-keyboard-en-th-01.jpg",
+        "price": 99.99,
+        "type": "Mechanical",
+        "color": "Black",
+        "layout": "QWERTY",
+        "connectivity": "Wired",
+        "features": [
+            "RGB Lighting",
+            "Detachable Cable",
+            "Tenkeyless"
+        ],
+        "rating": 4.5,
+        "reviews": 120
+    },
+    {
+        "id": "2",
+        "name": "Razer Huntsman Elite Gaming Keyboard",
+        "img": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2021/11/Product/razer-huntsman-v2-tkl-optical-gaming-keyboard-black-purple-switch-01.jpg",
+        "price": 199.99,
+        "type": "Opto-Mechanical",
+        "color": "Black",
+        "layout": "QWERTY",
+        "connectivity": "Wired",
+        "features": [
+            "RGB Lighting",
+            "Magnetic Wrist Rest",
+            "Fully Programmable Keys"
+        ],
+        "rating": 4.8,
+        "reviews": 250
+    },
+    {
+        "id": "3",
+        "name": "Corsair K95 RGB Platinum XT Mechanical Gaming Keyboard",
+        "img": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2024/03/Product/corsair-k70-core-rgb-mechanical-gaming-keyboard-black-red-sw-top-view.jpg",
+        "price": 209.99,
+        "type": "Mechanical",
+        "color": "Gunmetal",
+        "layout": "QWERTY",
+        "connectivity": "Wired",
+        "features": [
+            "RGB Lighting",
+            "PBT Double-Shot Keycaps",
+            "Six Dedicated Macro Keys"
+        ],
+        "rating": 4.7,
+        "reviews": 180
+    },
+    {
+        "id": "4",
+        "name": "SteelSeries Apex Pro TKL Mechanical Gaming Keyboard",
+        "img": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2019/09/SteelSeries-Apex-7-TKL-RGB-Mechanical-Keyboard-1(1).jpg",
+        "price": 179.99,
+        "type": "Mechanical",
+        "color": "Black",
+        "layout": "QWERTY",
+        "connectivity": "Wired",
+        "features": [
+            "OmniPoint Adjustable Switches",
+            "RGB Lighting",
+            "Aluminum Frame"
+        ],
+        "rating": 4.6,
+        "reviews": 150
+    }
+]
