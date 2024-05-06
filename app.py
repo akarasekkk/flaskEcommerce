@@ -162,9 +162,10 @@ def payment_credit_crypto():
     print(request.json['amount'][0])
     return payment(request.json['amount'][0])
 
-
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080)
+if __name__ == "__main__":
+    app.run()
+# if __name__ == '__main__':
+#     app.run(host='0.0.0.0', port=5000)
 
 # get_all_products()
 # get_product('1')
